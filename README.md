@@ -16,9 +16,9 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madihadongaonkar&langs_count=10&theme=fff&layout=compact" alt="dongaonkarmadiha :: Top Langs" /></p>
   
-  <h3>💻 Some stats 💻</h3>
-  ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=madihadongaonkar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-  
+  <h4>Profile stats :musical_keyboard:</h4>
+
+<p ><img src="https://github-readme-stats.vercel.app/api?username=madihadongaonkar&show_icons=true&theme=synthwave" alt="madiha :: Profile Stats" /></p
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 <p> Hi folks, I am 2020 Graduate with computer science degree, looking for good opportunity where I intend putting to practice whatever I have learnt to good use.</p>
   <div>
