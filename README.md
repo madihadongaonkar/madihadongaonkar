@@ -17,7 +17,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madihadongaonkar&langs_count=10&theme=fff&layout=compact" alt="dongaonkarmadiha :: Top Langs" /></p>
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
-<p align="center"> Hi folks, I am 2020 Graduate with computer science degree, looking for good opportunity where I intend putting to practice whatever I have learnt to good use.</p>
+<p> Hi folks, I am 2020 Graduate with computer science degree, looking for good opportunity where I intend putting to practice whatever I have learnt to good use.</p>
   
 <h2>💻 Some stats 💻</h2>
 
