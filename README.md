@@ -12,9 +12,9 @@
   <a href="https://www.linkedin.com/in/madihadongaonkar/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Madiha's Linkedin" height="30" width="30">
   </a>
-  <h4>Top langs :tongue:</h4>
+  <h4>Top langs </h4>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madihadongaonkar&langs_count=10&theme=tokyonight&layout=compact" alt="dongaonkarmadiha :: Top Langs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madihadongaonkar&langs_count=10&theme=fff&layout=compact" alt="dongaonkarmadiha :: Top Langs" /></p>
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 <p align="center"> Hi folks, I am 2020 Graduate with computer science degree, looking for good opportunity where I intend putting to practice whatever I have learnt to good use.</p>
