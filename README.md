@@ -1,4 +1,4 @@
-<h2> Hi folks, I'm Madiha Dongaonkar</h2>
+<h3> Hi folks, I'm Madiha Dongaonkar <img src="https://media.giphy.com/media/vwtg8NZpMpXFG9AO1M/giphy.gif" width="50"></h3>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <h2 align="center">About me</h2>
