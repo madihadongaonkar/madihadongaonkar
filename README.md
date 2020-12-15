@@ -6,7 +6,7 @@
 <p><img src="https://profile-counter.glitch.me/{madihadongaonkar}/count.svg" alt="Madiha :: Visitor's Count" /></p>
 
 
-<h2 >You can reach me at :relaxed:</h2>
+<h3 >You can reach me at :relaxed:</h3>
 
 <p >
   <a href="https://www.linkedin.com/in/madihadongaonkar/">
@@ -16,6 +16,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madihadongaonkar&langs_count=10&theme=fff&layout=compact" alt="dongaonkarmadiha :: Top Langs" /></p>
   
+  <h3>💻 Some stats 💻</h3>
   ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=madihadongaonkar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
@@ -37,7 +38,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="24">](https://www.jetbrains.com/phpstorm/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis" width="24">](https://redis.io/) | Varnish Cache | many more...
 |---|---|---|---|---|---|---|---|---|
-<h2>💻 Some stats 💻</h2>
+
 
 
 
