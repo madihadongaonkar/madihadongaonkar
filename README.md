@@ -1,5 +1,5 @@
-### Hi there 👋
 
+<p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=madihadongaonkar&style&color=yellowgreen" alt="madihadongaonkar"></p>
 <!--
 **madihadongaonkar/madihadongaonkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
