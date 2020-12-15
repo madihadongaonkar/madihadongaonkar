@@ -1,4 +1,6 @@
-## Madiha Dongaonkar
+<h2> Hi folks, I'm Madiha Dongaonkar</h2>
+
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <h2 align="center">About me</h2>
 <p align="center"> Hi folks, I am 2020 Graduate with computer science degree, looking for good opportunity where I intend putting to practice whatever I have learnt to good use.</p>
 
