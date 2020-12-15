@@ -9,9 +9,10 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Madiha's Linkedin" height="30" width="30">
   </a>
   
+<h2>💻 Some stats 💻</h2>
+
+![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=madihadongaonkar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
-<p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=madihadongaonkar&style&color=yellowgreen" alt="madihadongaonkar"></p>
-<p align="center"><a href="https://github.com/madihadongaonkar"><img src="https://github-readme-stats.vercel.app/api?username=madihadongaonkar&show_icons=true&theme=merko"></a></p>
 
 
